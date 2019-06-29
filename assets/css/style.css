@@ -1,0 +1,66 @@
+body {
+    background-image: url("../images/avengersendgame.png");
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+h1 {
+    font-size: 43px;
+    border: none;
+    background: inherit;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 15px;
+    font-family: 'Faster One', cursive;
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+h3 {
+    color: greenyellow;
+}
+
+.sidebar {
+    padding: 5px;
+    position: relative;
+    border-bottom: solid red 2px;
+    margin-bottom: 5px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 13px;
+}
+
+span {
+    border: solid red 2px;
+    padding-left: 3px;
+    padding-right:3px;
+    background-color: antiquewhite; 
+    font-size: 15px;
+    color: green;
+}
+
+.container {
+    background-color: inherit;
+    margin-top: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5px;
+    text-align: center;
+    border: solid 3px red;
+}
+
+#currentword {
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#scoreboard {
+    padding: 20px;
+}
