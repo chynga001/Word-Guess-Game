@@ -28,7 +28,7 @@ function Game() {
 
     document.getElementById("currentword").innerHTML = "  " + blanksAndCorrect.join(" ");
 
-
+}
 function reset() {
     guessesRemaining = 9;
     wrongGuess = [];
